@@ -1,0 +1,809 @@
+TPods-AFNetworking
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-efeigasuyqujeddbhcyshajrmljn/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053475B1F00000000004D7BC0
+t1397185311
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053223FF70000000000A90C10
+t1394753527
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000053223FF60000000000210E90
+t1394753526
+s2166416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053223FF70000000000186D60
+t1394753527
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000053223FF700000000001A2B00
+t1394753527
+s1714944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053475BC30000000000000198
+t1397185475
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005322400000000000000003B4
+t1394753536
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053224005000000000000019E
+t1394753541
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532240190000000000000ADC
+t1394753561
+s2780
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o
+t1404963280
+s45400
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o
+t1404963280
+s58744
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o
+t1404963280
+s67856
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o
+t1404963280
+s33420
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o
+t1404963280
+s44728
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o
+t1404963280
+s39600
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o
+t1404963281
+s199804
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o
+t1404963281
+s225752
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o
+t1404963281
+s99592
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o
+t1404963281
+s207456
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o
+t1404963281
+s3468
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking.LinkFileList
+c0000000053BE09D00000000000000C16
+t1404963280
+s3094
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o
+t1404963281
+s50456
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o
+t1404963281
+s27708
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o
+t1404963281
+s76600
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o
+t1404963281
+s73016
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o
+t1404963281
+s68468
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o
+t1404963281
+s51828
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o
+t1404963281
+s68168
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-efeigasuyqujeddbhcyshajrmljn/Pods-AFNetworking-prefix.pch.pch
+t1404963280
+s125728
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch.pch
+t1404963280
+s126140
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a
+t1404963281
+s1459344
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+c0000000053BE08720000000000001170
+t1404962930
+s4464
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+c0000000053BE08720000000000001D5E
+t1404962930
+s7518
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+c0000000053BE08720000000000004A9F
+t1404962930
+s19103
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+c0000000053BE087200000000000029D9
+t1404962930
+s10713
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+c0000000053BE0872000000000000389B
+t1404962930
+s14491
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+c0000000053BE0872000000000000322B
+t1404962930
+s12843
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+c0000000053BE08720000000000001E75
+t1404962930
+s7797
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+c0000000053BE0872000000000000267B
+t1404962930
+s9851
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+c0000000053BE08720000000000001420
+t1404962930
+s5152
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+c0000000053BE08720000000000002B7A
+t1404962930
+s11130
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+c0000000053BE08720000000000004273
+t1404962930
+s17011
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+c0000000053BE08720000000000006C06
+t1404962930
+s27654
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+c0000000053BE08720000000000005322
+t1404962930
+s21282
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+c0000000053BE0872000000000000BB98
+t1404962930
+s48024
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+c0000000053BE08720000000000002C15
+t1404962930
+s11285
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+c0000000053BE08720000000000006784
+t1404962930
+s26500
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+c0000000053BE087200000000000074AE
+t1404962930
+s29870
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+c0000000053BE0872000000000000A96B
+t1404962930
+s43371
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+c0000000053BE08720000000000000EC6
+t1404962930
+s3782
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+c0000000053BE08720000000000001911
+t1404962930
+s6417
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+c0000000053BE087200000000000009CE
+t1404962930
+s2510
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+c0000000053BE08720000000000000F1E
+t1404962930
+s3870
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+c0000000053BE0872000000000000143F
+t1404962930
+s5183
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+c0000000053BE08720000000000001641
+t1404962930
+s5697
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+c0000000053BE08720000000000001F9A
+t1404962930
+s8090
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+c0000000053BE08720000000000001D60
+t1404962930
+s7520
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+c0000000053BE08720000000000001C1C
+t1404962930
+s7196
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+c0000000053BE08720000000000001F28
+t1404962930
+s7976
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+c0000000053BE08720000000000000D8E
+t1404962930
+s3470
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+c0000000053BE08720000000000001EE1
+t1404962930
+s7905
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+c0000000053BE087200000000000009BC
+t1404962930
+s2492
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+c0000000053BE08720000000000000EFC
+t1404962930
+s3836
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+c0000000053BE08720000000000001739
+t1404962930
+s5945
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+c0000000053BE0872000000000000192C
+t1404962930
+s6444
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-dummy.m
+c0000000053BE0872000000000000008A
+t1404962930
+s138
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-prefix.pch
+c0000000053BE0872000000000000004D
+t1404962930
+s77
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-environment.h
+c0000000053BE087200000000000007D3
+t1404962930
+s2003
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2ee2870b456eb941^075f880b456eb941^---0#1#1#--18"Check dependencies36"121137B8-E0A7-4562-82A3-8C7536091828-
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.848849
+e426656080.969042
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m296"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler596ed950416eb941^611cf850416eb941^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m0000000000000000^4313"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o36"184E8E31-B2FB-4D03-837F-EAC600D1E80B-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.848795
+e426656080.968908
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m310"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0875d950416eb941^5018f850416eb941^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m0000000000000000^4355"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o36"1D32C72A-D860-4B55-8966-4E067CDC7897-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.848877
+e426656080.993723
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m292"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler499cd950416eb941^8676fe50416eb941^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m0000000000000000^4301"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o36"34DE694C-C0A9-4266-BEDB-B3DFFA542DBD-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.848939
+e426656080.958546
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m324"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3083d950416eb941^897af550416eb941^---0#0#1#-19%DVTDocumentLocation2@135"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m0000000000000000^4391"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o36"0DD3464D-CEAC-410F-8772-8D8901BDA749-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.849142
+e426656080.970298
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m308"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6f80d950416eb941^7b6bf850416eb941^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m0000000000000000^4349"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o36"CE561EE4-FEAD-4332-A076-8DEDB1104A8C-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.850192
+e426656080.963523
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m284"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler53d0d950416eb941^5caaf650416eb941^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m0000000000000000^4277"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o36"B80A13AC-00BF-4977-A065-533F9390D160-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.850176
+e426656081.160960
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m300"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5dc2d950416eb941^01352951416eb941^---0#0#1#-19%DVTDocumentLocation2@120"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m0000000000000000^4325"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o36"AE92CD3A-96B1-49B5-8B4D-0A1961E80AFC-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.850203
+e426656081.188273
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m302"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2acad950416eb941^51333051416eb941^---0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m0000000000000000^4331"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o36"EF689A90-C079-4C4A-A15F-481ADEB66D9F-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.960006
+e426656081.134270
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m304"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler46eef550416eb941^b75f2251416eb941^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m0000000000000000^4337"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o36"C43956D3-308E-4A6B-A4A2-A2C921A9F612-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.965134
+e426656081.228885
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m290"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere23df750416eb941^dd983a51416eb941^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m0000000000000000^4295"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o36"B1E400F9-27A1-4040-B37D-0E207E3D2CB9-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.970541
+e426656081.039856
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-dummy.m272"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0e9ff850416eb941^00530a51416eb941^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-dummy.m0000000000000000^4256"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-efeigasuyqujeddbhcyshajrmljn/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-dummy.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o36"D22271ED-E176-43C6-AF63-21FDB4825178-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.970996
+e426656081.092356
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m330"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler18b4f850416eb941^36c91751416eb941^---0#0#1#-19%DVTDocumentLocation2@138"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m0000000000000000^4409"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o36"8D0D619D-C699-4284-A999-917ABD42F5BA-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.971847
+e426656081.066192
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m306"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerddeff850416eb941^17f21051416eb941^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m0000000000000000^4337"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o36"9D2632DB-E096-46CB-BBB7-5C3B6C7FCB9B-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.995521
+e426656081.135628
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m300"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1005ff50416eb941^6bba2251416eb941^---0#0#1#-19%DVTDocumentLocation2@123"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m0000000000000000^4319"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o36"44779436-F501-4554-BB55-4D42C7FC3D18-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656081.041224
+e426656081.182714
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m306"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercbbf0a51416eb941^acc62e51416eb941^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m0000000000000000^4337"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o36"E3657AEE-FC76-4119-B5BF-CFAD4C328037-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656081.067707
+e426656081.208311
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m312"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb2801151416eb941^11543551416eb941^---0#0#1#-19%DVTDocumentLocation2@129"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m0000000000000000^4355"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o36"067BAAEF-3B27-4869-9022-8451C626C3DD-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656081.093884
+e426656081.197580
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m316"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc74a1851416eb941^cd943251416eb941^---0#0#1#-19%DVTDocumentLocation2@131"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m0000000000000000^4367"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIRefreshControl+AFNetworking.o36"BD9F948E-81F9-49E0-95B7-1EFABEF26CA1-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656081.135829
+e426656081.232061
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m302"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler85ee2251416eb941^a99f3b51416eb941^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m0000000000000000^4325"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o36"4DAB5F6F-4F31-4FA1-A104-BC016ACE1BC8-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CLibtool /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a normal i386
+s426656081.241132
+e426656081.259014
+r1
+xLibtool
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Libtool /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a normal i386126"Libtool /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a normal i3864ace3d51416eb941^554f4251416eb941^---0#0#1#--1342"Libtool /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a normal i386    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -filelist /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking.LinkFileList -framework CoreGraphics -framework Foundation -framework MobileCoreServices -framework Security -framework SystemConfiguration -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a36"0A3BA3D8-4327-48E0-9315-612374F56A1C-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CProcessPCH /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-efeigasuyqujeddbhcyshajrmljn/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.657731
+e426656080.840133
+r1
+xProcessPCH
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-efeigasuyqujeddbhcyshajrmljn/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-prefix.pch
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch280"ProcessPCH /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-efeigasuyqujeddbhcyshajrmljn/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7d76a850416eb941^0613d750416eb941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-prefix.pch0000000000000000^4101"ProcessPCH /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-efeigasuyqujeddbhcyshajrmljn/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-efeigasuyqujeddbhcyshajrmljn/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-efeigasuyqujeddbhcyshajrmljn/Pods-AFNetworking-prefix.pch.d -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-prefix.pch -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-efeigasuyqujeddbhcyshajrmljn/Pods-AFNetworking-prefix.pch.pch36"10012003-2220-419F-9C5B-EE85C994C1A6-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CProcessPCH /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656080.656528
+e426656080.840198
+r1
+xProcessPCH
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-prefix.pch
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch280"ProcessPCH /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerad35a850416eb941^0d1dd750416eb941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-prefix.pch0000000000000000^4112"ProcessPCH /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/BuildHeaders/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -fobjc-arc --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch.d -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-AFNetworking-prefix.pch -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-eogeofwabebmwcdtqzgfhougrgke/Pods-AFNetworking-prefix.pch.pch36"85A1734E-8699-4A16-BEA0-01EECE8BA8A3-
+b796BE14F-A264-4A63-8BCE-4BE5B47B13B7
+
+CProcessPCH /Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/bigtabledemo-bnhvfexxxskgnvaubdmprhtfnwkc/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-gqocyesqbaydbibkvbtuaxsblhaz_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/bigtabledemo-bnhvfexxxskgnvaubdmprhtfnwkc/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-hgzoxziljmlnqzfaatypptxkxnmd_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

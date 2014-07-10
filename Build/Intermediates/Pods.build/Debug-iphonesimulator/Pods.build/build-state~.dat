@@ -1,0 +1,88 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053223FF70000000000A90C10
+t1394753527
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053475BC30000000000000198
+t1397185475
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005322400000000000000003B4
+t1394753536
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053224005000000000000019E
+t1394753541
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532240190000000000000ADC
+t1394753561
+s2780
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+t1404963281
+s3124
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList
+c0000000053BE09D10000000000000090
+t1404963281
+s144
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a
+c0000000053BE09D10000000000164490
+t1404963281
+s1459344
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods.a
+t2
+s0
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-dummy.m
+c0000000053BE08720000000000000070
+t1404962930
+s112
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8e034751416eb941^d2354751416eb941^---0#1#1#--18"Check dependencies36"C02EF2BB-8870-4DC3-A613-AB3D5057E3BB-
+
+CCompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426656081.279971
+e426656081.407268
+r1
+xCompileC
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-dummy.m233"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere2c84751416eb941^af446851416eb941^---0#0#1#-19%DVTDocumentLocation2@80"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-dummy.m0000000000000000^3852"CompileC /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods/Headers -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods/Headers/AFNetworking -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -isystem /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods/Headers -isystem /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods/Headers/AFNetworking -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods/Pods-dummy.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o36"EF60972C-7E66-47DF-84ED-7D7741D6E52F-
+bF4AFBD1B-51A7-40DE-BD97-D1FDF828BF40
+
+CLibtool /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+s426656081.415200
+e426656081.460787
+r1
+xLibtool
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Libtool /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods.a normal i386113"Libtool /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods.a normal i386965f6a51416eb941^88f67551416eb941^---0#0#1#--1205"Libtool /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods.a normal i386    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/anthonysherbondy/.rbenv/shims:/Users/anthonysherbondy/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/anthonysherbondy/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -filelist /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/libPods.a36"99EE32FE-A412-4B8C-A9C1-FE360314CC26-
+bF4AFBD1B-51A7-40DE-BD97-D1FDF828BF40
+

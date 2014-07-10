@@ -1,0 +1,360 @@
+Tbigtabledemo
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch.pch bigtabledemo/bigtabledemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/MainViewController.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/AppDelegate.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/main.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo normal i386
+cCopyStringsFile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/en.lproj/InfoPlist.strings bigtabledemo/en.lproj/InfoPlist.strings
+cCompileXIB /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.xib
+cCompileAssetCatalog /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/Images.xcassets
+cProcessInfoPlistFile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/Info.plist /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/bigtabledemo-Info.plist
+cGenerateDSYMFile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app.dSYM /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo
+cTouch /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053475BC30000000000000198
+t1397185475
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005322400000000000000003B4
+t1394753536
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053224005000000000000019E
+t1394753541
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053475B1F0000000000446820
+t1397185311
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053224007000000000088D8C0
+t1394753543
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005322400A0000000001F1DE10
+t1394753546
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532240190000000000000ADC
+t1394753561
+s2780
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch.pch
+t1404958751
+s122496
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/AppDelegate.o
+t1404958751
+s64612
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/MainViewController.o
+t1404958751
+s40112
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/bigtabledemo.LinkFileList
+c0000000053BDF81F00000000000001E3
+t1404958751
+s483
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/main.o
+t1404958751
+s3568
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/assetcatalog_dependencies.txt
+t1404958751
+s418
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/assetcatalog_generated_info.plist
+t1404958751
+s525
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app
+t1404958752
+s306
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app.dSYM
+t2
+s0
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/Info.plist
+t1404958752
+s1005
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/MainViewController.nib
+t1404958752
+s1739
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/PkgInfo
+t1404958752
+s8
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo
+t1404958751
+s21748
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/en.lproj/InfoPlist.strings
+t1404958751
+s42
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/AppDelegate.m
+c0000000053BDF7F8000000000000093D
+t1404958712
+s2365
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/Images.xcassets
+c0000000053BDF77A0000000000000088
+t1404958586
+s136
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.m
+c0000000053BDF7C100000000000002EC
+t1404958657
+s748
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.xib
+c0000000053BDF81F00000000000007D0
+t1404958751
+s2000
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/bigtabledemo-Info.plist
+c0000000053BDF77A000000000000049C
+t1404958586
+s1180
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/bigtabledemo-Prefix.pch
+c0000000053BDF77A0000000000000158
+t1404958586
+s344
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/en.lproj/InfoPlist.strings
+c0000000053BDF77A000000000000002D
+t1404958586
+s45
+
+N/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/main.m
+c0000000053BDF77A0000000000000161
+t1404958586
+s353
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/AppDelegate.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.m
+r0
+
+CBuild AST from /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0b7d109f2f6eb941^77a1199f2f6eb941^---0#1#1#--18"Check dependencies36"C640C55F-9CAB-4150-8C81-859200A9979E-
+
+CCompileAssetCatalog /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/Images.xcassets
+s426651551.440491
+e426651551.679690
+r1
+xCompileAssetCatalog
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/LaunchImage-700-568h@2x.png
+o/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/Assets.car
+o/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/bigtabledemo.app bigtabledemo/Images.xcassets102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/bigtabledemo.app bigtabledemo/Images.xcassets89d4709f2f6eb941^5402ae9f2f6eb941^-446"/* com.apple.actool.compilation-results *//Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/LaunchImage-700-568h@2x.png/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/Assets.car/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/Images.xcassets/0000000000000000^1218"CompileAssetCatalog Build/Products/Debug-iphonesimulator/bigtabledemo.app bigtabledemo/Images.xcassets    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/Images.xcassets36"8EE1E5AE-648C-4DF4-BD5B-20D672BA84E0-
+b60018CA7-9223-48E7-8EB3-7F233FFE89E5
+
+CCompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/AppDelegate.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426651551.307859
+e426651551.393978
+r1
+xCompileC
+xBuild/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/AppDelegate.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/AppDelegate.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/AppDelegate.h
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/AppDelegate.m217"CompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/AppDelegate.o bigtabledemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd0f04e9f2f6eb941^33dc649f2f6eb941^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/AppDelegate.m0000000000000000^3914"CompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/AppDelegate.o bigtabledemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/AppDelegate.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/AppDelegate.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/AppDelegate.o36"E6874E19-72EE-4E8D-AD18-3D2B03186C33-
+b60018CA7-9223-48E7-8EB3-7F233FFE89E5
+
+CCompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/MainViewController.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426651551.307852
+e426651551.384622
+r1
+xCompileC
+xBuild/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/MainViewController.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.m231"CompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/MainViewController.o bigtabledemo/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler52ee4e9f2f6eb941^1d77629f2f6eb941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.m0000000000000000^3956"CompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/MainViewController.o bigtabledemo/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/MainViewController.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/MainViewController.o36"97A51D0D-02AA-4393-A2DE-547EB2FF0484-
+b60018CA7-9223-48E7-8EB3-7F233FFE89E5
+
+CCompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/main.o /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426651551.307887
+e426651551.347979
+r1
+xCompileC
+xBuild/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/main.o
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/main.m
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/main.m203"CompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/main.o bigtabledemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler14ed4e9f2f6eb941^0515599f2f6eb941^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/main.m0000000000000000^3872"CompileC Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/main.o bigtabledemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -include /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/main.dia -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/main.m -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/main.o36"DCCA6B6E-027F-4CD7-99EF-86B940F59F56-
+b60018CA7-9223-48E7-8EB3-7F233FFE89E5
+
+CCompileXIB /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.xib
+s426651551.440469
+e426651552.074301
+r1
+xCompileXIB
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compiling /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.xib46"CompileXIB bigtabledemo/MainViewController.xibdcd4709f2f6eb941^c90513a02f6eb941^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.xib0000000000000000^808"CompileXIB bigtabledemo/MainViewController.xib    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/MainViewController.nib /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/MainViewController.xib36"2B6E40F1-A7B6-4A15-810B-95DE1893D816-
+b60018CA7-9223-48E7-8EB3-7F233FFE89E5
+
+CCopyStringsFile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/en.lproj/InfoPlist.strings bigtabledemo/en.lproj/InfoPlist.strings
+s426651551.440465
+e426651551.445172
+r1
+xCopyStringsFile
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/en.lproj/InfoPlist.strings
+xbigtabledemo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy bigtabledemo/en.lproj/InfoPlist.strings136"CopyStringsFile Build/Products/Debug-iphonesimulator/bigtabledemo.app/en.lproj/InfoPlist.strings bigtabledemo/en.lproj/InfoPlist.strings8cd7709f2f6eb941^51f7719f2f6eb941^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/en.lproj/InfoPlist.strings0000000000000000^629"CopyStringsFile Build/Products/Debug-iphonesimulator/bigtabledemo.app/en.lproj/InfoPlist.strings bigtabledemo/en.lproj/InfoPlist.strings    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/en.lproj -- bigtabledemo/en.lproj/InfoPlist.strings36"FE661262-46CC-454E-B643-184F74155948-
+b60018CA7-9223-48E7-8EB3-7F233FFE89E5
+
+CGenerateDSYMFile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app.dSYM /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo
+s426651552.094118
+e426651552.109836
+r1
+xGenerateDSYMFile
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app.dSYM
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Generate /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app.dSYM142"GenerateDSYMFile Build/Products/Debug-iphonesimulator/bigtabledemo.app.dSYM Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo312718a02f6eb941^ef1e1ca02f6eb941^---0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app.dSYM0038a8b1deffdf42^715"GenerateDSYMFile Build/Products/Debug-iphonesimulator/bigtabledemo.app.dSYM Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app.dSYM36"94318D47-6B61-40E0-AA4F-D70193DA15A4-
+b60018CA7-9223-48E7-8EB3-7F233FFE89E5
+
+CLd /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo normal i386
+s426651551.401779
+e426651551.432086
+r1
+xLd
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo
+xnormal
+xi386
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/bigtabledemo.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/AppDelegate.o
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/MainViewController.o
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo81"Ld Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo normal i3860beb669f2f6eb941^0a9e6e9f2f6eb941^---0#0#1#--1487"Ld Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo normal i386    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator -filelist /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/bigtabledemo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/Objects-normal/i386/bigtabledemo_dependency_info.dat -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/bigtabledemo36"FE97514C-C7F5-4A87-A0E2-F87B89DDD7C8-
+b60018CA7-9223-48E7-8EB3-7F233FFE89E5
+
+CProcessInfoPlistFile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/Info.plist /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/bigtabledemo-Info.plist
+s426651552.082693
+e426651552.085574
+r1
+xProcessInfoPlistFile
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/Info.plist
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/bigtabledemo-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Process /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/bigtabledemo-Info.plist122"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/bigtabledemo.app/Info.plist bigtabledemo/bigtabledemo-Info.plist793c15a02f6eb941^e6e815a02f6eb941^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/bigtabledemo-Info.plist0000000000000000^967"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/bigtabledemo.app/Info.plist bigtabledemo/bigtabledemo-Info.plist    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/bigtabledemo-Info.plist -genpkginfo /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/assetcatalog_generated_info.plist -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app/Info.plist36"A522D0F7-5580-417F-8119-8612265FEF38-
+b60018CA7-9223-48E7-8EB3-7F233FFE89E5
+
+CProcessPCH /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch.pch bigtabledemo/bigtabledemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426651551.100648
+e426651551.299390
+r1
+xProcessPCH
+x/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch.pch
+xbigtabledemo/bigtabledemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/bigtabledemo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile bigtabledemo/bigtabledemo-Prefix.pch231"ProcessPCH Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch.pch bigtabledemo/bigtabledemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfbe7199f2f6eb941^e3a44c9f2f6eb941^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/bigtabledemo-Prefix.pch0000000000000000^3779"ProcessPCH Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch.pch bigtabledemo/bigtabledemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anthonysherbondy/Code/iosd/bigtabledemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-generated-files.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-own-target-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-all-target-headers.hmap -iquote /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/bigtabledemo-project-headers.hmap -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/DerivedSources/i386 -I/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/bigtabledemo.build/Debug-iphonesimulator/bigtabledemo.build/DerivedSources -F/Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch.d -c /Users/anthonysherbondy/Code/iosd/bigtabledemo/bigtabledemo/bigtabledemo-Prefix.pch -o /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Intermediates/PrecompiledHeaders/bigtabledemo-Prefix-fdnhfcrvkovnmveeenrrylisvpys/bigtabledemo-Prefix.pch.pch36"91CAD55B-ADD4-4702-9687-8A33BC38B684-
+b60018CA7-9223-48E7-8EB3-7F233FFE89E5
+
+CProcessPCH /Users/anthonysherbondy/Library/Developer/Xcode/DerivedData/bigtabledemo-bevkqwvxfmvlkpaloygkrysbmqbf/Index/PrecompiledHeaders/bigtabledemo-Prefix-cxjevuohlggwxpbqqafkkblqcvue_ast/bigtabledemo-Prefix.pch.pch bigtabledemo/bigtabledemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/anthonysherbondy/Code/iosd/bigtabledemo/Build/Products/Debug-iphonesimulator/bigtabledemo.app
+r0
+
